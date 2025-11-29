@@ -1,8 +1,5 @@
 # React Journey
 
-> **Status:** In Progress (Phase 1: JavaScript Foundations)
-> **Goal:** To bridge the gap between *writing code* and *software architecture* in the React ecosystem.
-
 ## About This Repository
 
 This repository is not just a collection of tutorials. It documents my structured journey to mastering the modern React ecosystem (Next.js 15, Server Components, TypeScript).
